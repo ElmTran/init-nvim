@@ -7,7 +7,7 @@
   ```
   cd C:\Users\[UserName]\AppData\Local\nvim
 
-  git pull origin master
+  git pull origin main
 
   nvim
 
