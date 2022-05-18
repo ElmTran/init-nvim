@@ -1,9 +1,9 @@
 # A Simple NeoVim Config
 ## First Step： Install Nvim
-- windows  
+- Windows  
   `scoop install nvim`
 ## Usage
-- Window  
+- Windows  
   ```
   cd C:\Users\[UserName]\AppData\Local\nvim
 
