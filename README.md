@@ -7,7 +7,7 @@
   ```
   cd C:\Users\[UserName]\AppData\Local\nvim
 
-  git pull origin main
+  git clone git@github.com:ElmTran/init-nvim.git
 
   nvim
 
