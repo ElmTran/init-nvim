@@ -5,9 +5,11 @@
 ## Usage
 - Windows  
   ```
-  cd C:\Users\[UserName]\AppData\Local\nvim
+  cd C:\Users\[UserName]\AppData\Local\
 
   git clone git@github.com:ElmTran/init-nvim.git
+
+  ren init-vim nvim
 
   nvim
 
